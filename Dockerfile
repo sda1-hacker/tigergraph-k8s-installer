@@ -1,0 +1,1 @@
+FROM tigergraph/tigergraph-k8s-installer:3.5.0
